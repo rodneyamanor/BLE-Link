@@ -1,0 +1,16 @@
+
+*** These modified files were found in JOE when it aborted on Fri May  1 00:54:12 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/rodney/.bashrc
+/home/rodney/.bashrc
+/home/rodney/.bashrc
+/home/rodney/.bashrc
+/home/rodney/omnetpp-5.4.1/OPS/simulations/locations.txt
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jmacsrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jmacsrc
